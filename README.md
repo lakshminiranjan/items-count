@@ -1,3 +1,3 @@
 # items-count
 Created with CodeSandbox
-<img src="" alt=""/>
+<img src="./items-count.png" alt=""/>
